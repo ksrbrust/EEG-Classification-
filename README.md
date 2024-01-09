@@ -29,5 +29,5 @@ o Assess the final model on the test set to ensure its generalization capability
 o Visualize the EEG data and model predictions. Create plots and graphs to illustrate your findings.<br>
 
 # Dataset:
-https://physionet.org/content/chbmit/1.0.0/
+https://physionet.org/content/chbmit/1.0.0/<br>
 https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/
